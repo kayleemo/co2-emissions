@@ -10,9 +10,10 @@ The link to the Kaggle dataset is here: <https://www.kaggle.com/datasets/koustav
 
 ## Project
 My project is published here: <https://kayleemo.shinyapps.io/final-app/>
+
 Feel free to click around the tabs and play around with the interactive graphs.
 
-
+My code for the project is here: <https://github.com/kayleemo/co2-emissions/blob/main/final-app/app.R>
 
 ## Findings
 For this analysis, I looked at CO2 emissions from a world view, to a regional view, and to a country view. 
