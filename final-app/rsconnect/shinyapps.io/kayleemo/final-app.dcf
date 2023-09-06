@@ -1,0 +1,13 @@
+name: final-app
+title: final-app
+username:
+account: kayleemo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9736205
+bundleId: 7632147
+url: https://kayleemo.shinyapps.io/final-app/
+when: 1693519216.4285
+lastSyncTime: 1693519216.42851
+asMultiple: FALSE
+asStatic: FALSE
