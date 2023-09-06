@@ -15,7 +15,7 @@ Feel free to click around the tabs and play around with the interactive graphs.
 
 My code for the project is here: <https://github.com/kayleemo/co2-emissions/blob/main/final-app/app.R>
 
-## Findings
+## Results
 For this analysis, I looked at CO2 emissions from a world view, to a regional view, and to a country view. I wanted to develop 3 different graphics that would start from an over-arching and "wide" view and work itself in to become more "narrow" and specific to a country. 
 
 The first graphic that is displayed is the 'World View' map. This visualization is a great initial insight into the dataset, as it is easy to compare the emissions of the regions included in the dataset. You can easily identify the regions that are top emitters (North America and Middle East & North Africa), and those that are the lowest (South Asia and Sub-Saharan Africa).
