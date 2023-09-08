@@ -1,4 +1,4 @@
-# CO2 Emissions Per Capita
+# Analysis and Comparison of CO2 Emissions Per Capita Across the World
 
 ## Background
 We have all grown up hearing about climate change and the dangers it imposes on our society. Politicians continue to argue whether climate change exists and/or is a pressing issue, yet, the negative impacts of climate change are now getting harder to ignore. Growing up in Oregon, I saw the impacts climate change had on my state, including extreme wildfires that were once rare that now occur every summer and is the norm. I believe it is more important now than ever that we, as a society, learn about climate change and the tragic effects. I wanted to explore the issue on a global level, and that started with analysis on CO2 emissions for countries and regions across the world. 
